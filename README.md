@@ -66,11 +66,6 @@ graph TD
 
 ---
 
-# 🌌🌋 EXTREME BADGE EXPANSION PACK 🌋🌌
-Đoạn dưới đây là **NHỮNG PHẦN CỰC CỰC CỰC DÀI** đúng ý Tiến! Hít sâu… vì badge sắp nổ tung màn hình =))
-
----
-
 ## <img src="https://img.shields.io/badge/STEP_5-HƯỚNG_DẪN_CUST0M_AI_FULL_STACK-ff69b4?style=flat-square&logo=opsgenie" />
 
 <p align="center">
@@ -173,7 +168,7 @@ END_LOCK
 </p>
 
 > 📥 <img src="https://img.shields.io/badge/File-prompt.txt-blue?style=for-the-badge&logo=notepadplusplus" />  
-> 👉 Mở file **prompt.txt** để xem nội dung gốc siêu đỉnh!  
+> 👉 Mở file **prompt.txt** và tải file để xem nội dung gốc siêu đỉnh!  
 > ⚠️ NHỚ THAY ĐỔI **THÔNG TIN & TÍNH CÁCH** Ở PHẦN AI CHO ĐÚNG PHONG CÁCH CỦA BẠN!!!  
 > <img src="https://img.shields.io/badge/Warning-BIG_BADGE_ALERT-red?style=for-the-badge&logo=warning" />
 >
@@ -183,6 +178,6 @@ END_LOCK
 >
 > <img src="https://img.shields.io/badge/NOTICE-ĐỪNG_QUÊN_THAY_TÊN-yellow?style=for-the-badge&logo=stackoverflow" />  
 > <img src="https://img.shields.io/badge/REMEMBER-CHỈNH_TÍNH_CÁCH-ngreen?style=for-the-badge&logo=discord" />  
-> <img src="https://img.shields.io/badge/ALERT-KHÔNG_THỂ_BỎ_QUA-red?style=for-the-badge&logo=telegram" />
+> <img src="https://img.shields.io/badge/ALERT-ĐÂY_LÀ_BƯỚC_QUAN_TRỌNG-red?style=for-the-badge&logo=telegram" />
 >
-> <img src="https://img.shields.io/badge/READ-HẾT-khaki?style=for-the-badge&logo=gitbook" />
+> <img src="https://img.shields.io/badge/NOTIFICATION-HẾT-khaki?style=for-the-badge&logo=gitbook" />
