@@ -185,4 +185,4 @@ END_LOCK
 > <img src="https://img.shields.io/badge/REMEMBER-CHỈNH_TÍNH_CÁCH-ngreen?style=for-the-badge&logo=discord" />  
 > <img src="https://img.shields.io/badge/ALERT-KHÔNG_THỂ_BỎ_QUA-red?style=for-the-badge&logo=telegram" />
 >
-> <img src="https://img.shields.io/badge/READ-README_TRƯỚC-khaki?style=for-the-badge&logo=gitbook" />
+> <img src="https://img.shields.io/badge/READ-HẾT-khaki?style=for-the-badge&logo=gitbook" />
