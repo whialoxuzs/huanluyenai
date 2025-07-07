@@ -172,6 +172,17 @@ END_LOCK
   <img src="https://img.shields.io/badge/STATUS-COMPLETE_&_EPIC-purple?style=for-the-badge&logo=partyparrot" />
 </p>
 
-> **HẾT TÀI LIỆU!** Tới lượt bạn **THỐNG TRỊ VŨ TRỤ** cùng AI badge overload!  
->  
-> **YIPE!!!!** 🎉
+> 📥 <img src="https://img.shields.io/badge/File-prompt.txt-blue?style=for-the-badge&logo=notepadplusplus" />  
+> 👉 Mở file **prompt.txt** để xem nội dung gốc siêu đỉnh!  
+> ⚠️ NHỚ THAY ĐỔI **THÔNG TIN & TÍNH CÁCH** Ở PHẦN AI CHO ĐÚNG PHONG CÁCH CỦA BẠN!!!  
+> <img src="https://img.shields.io/badge/Warning-BIG_BADGE_ALERT-red?style=for-the-badge&logo=warning" />
+>
+> <img src="https://img.shields.io/badge/Step_1-ĐỌC_PROMPT-important?style=for-the-badge&logo=readme" />  
+> <img src="https://img.shields.io/badge/Step_2-TÙY_CHỈNH_AI-success?style=for-the-badge&logo=chatgpt" />  
+> <img src="https://img.shields.io/badge/Step_3-SAVE_VÀ_RUN-orange?style=for-the-badge&logo=github" />  
+>
+> <img src="https://img.shields.io/badge/NOTICE-ĐỪNG_QUÊN_THAY_TÊN-yellow?style=for-the-badge&logo=stackoverflow" />  
+> <img src="https://img.shields.io/badge/REMEMBER-CHỈNH_TÍNH_CÁCH-ngreen?style=for-the-badge&logo=discord" />  
+> <img src="https://img.shields.io/badge/ALERT-KHÔNG_THỂ_BỎ_QUA-red?style=for-the-badge&logo=telegram" />
+>
+> <img src="https://img.shields.io/badge/READ-README_TRƯỚC-khaki?style=for-the-badge&logo=gitbook" />
