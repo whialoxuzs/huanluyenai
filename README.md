@@ -176,3 +176,21 @@ END_LOCK
 > <img src="https://img.shields.io/badge/ALERT-ĐÂY_LÀ_BƯỚC_QUAN_TRỌNG-red?style=for-the-badge&logo=telegram" />
 >
 > <img src="https://img.shields.io/badge/NOTIFICATION-HẾT-khaki?style=for-the-badge&logo=gitbook" />
+
+<!-- 🌋 FILE 🌋 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/FOLDER-ROOT-informational?style=flat-square&logo=files" />
+  <img src="https://img.shields.io/badge/FILE-prompt.txt-blueviolet?style=flat-square&logo=notepadplusplus" />
+  <img src="https://img.shields.io/badge/FILE-README.md-purple?style=flat-square&logo=markdown" />
+</p>
+
+<!-- 🌌 SƠ ĐỒ FILE 🌌 -->
+```mermaid
+graph TD
+    ROOT["/ <br><img src='https://img.shields.io/badge/ROOT-Directory-informational?style=flat-square'/>"]
+    PROMPT["prompt.txt <br><img src='https://img.shields.io/badge/OPEN_ME-FIRST-blueviolet?style=flat-square'/>"]
+    README["README.md <br><img src='https://img.shields.io/badge/BADGE_OVERLOAD-∞-purple?style=flat-square'/>"]
+
+    ROOT --> PROMPT
+    ROOT --> README
+```
