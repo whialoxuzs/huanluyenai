@@ -101,16 +101,11 @@ graph TD
 BEGIN_LOCK
 # Tuyệt đối không sửa block này!
 - Locked at 2025‑07‑07T12:00+07
-- Version: v999‑SuperSaiyan‑Overload
+- Version: v2.5
 END_LOCK
 ```
 > **WARNING** <img src="https://img.shields.io/badge/My_eyes-are_bleeding-red?style=flat-square&logo=eyeem" />  
-> Xoá lock = AI quay về thời đồ đá D: :(  
-
-### 5.5 Xuất bản & chia sẻ  
-- Đóng gói README + `.prompt-template`  
-- Đẩy lên GitHub với tag **`#AI-BADGE-WARLOCK`**  
-- Thêm GIF “con mèo phóng hoả” để thu hút ⭐  
+> Xoá lock = AI quay về thời đồ đá
 
 ---
 
