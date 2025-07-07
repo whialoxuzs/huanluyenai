@@ -184,7 +184,8 @@ END_LOCK
   <img src="https://img.shields.io/badge/FILE-README.md-purple?style=flat-square&logo=markdown" />
 </p>
 
-<!-- 🌌 SƠ ĐỒ FILE 🌌 -->
+# 🌌 SƠ ĐỒ FILE 🌌
+
 ```mermaid
 graph TD
     ROOT["/ <br><img src='https://img.shields.io/badge/ROOT-Directory-informational?style=flat-square'/>"]
