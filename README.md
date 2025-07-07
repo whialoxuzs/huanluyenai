@@ -189,8 +189,8 @@ END_LOCK
 ```mermaid
 graph TD
     ROOT["/ <br><img src='https://img.shields.io/badge/ROOT-Directory-informational?style=flat-square'/>"]
-    PROMPT["prompt.txt <br><img src='https://img.shields.io/badge/OPEN_ME-FIRST-blueviolet?style=flat-square'/>"]
-    README["README.md <br><img src='https://img.shields.io/badge/BADGE_OVERLOAD-∞-purple?style=flat-square'/>"]
+    PROMPT["/prompt.txt <br><img src='https://img.shields.io/badge/OPEN_ME-FIRST-blueviolet?style=flat-square'/>"]
+    README["/README.md <br><img src='https://img.shields.io/badge/BADGE_OVERLOAD-∞-purple?style=flat-square'/>"]
 
     ROOT --> PROMPT
     ROOT --> README
